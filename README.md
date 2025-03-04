@@ -6,7 +6,7 @@
 
 ### Dataset
 
-As mentioned, the dataset can be found in Kaggle named "[Prognosis Disease Symptoms](https://www.kaggle.com/datasets/noeyislearning/disease-prediction-based-on-symptoms/data)". It is stored in CSV format files with each row representing a patient record, 132 columns representing different symptoms plus one last column indicating the disease/prognosis. The 132 symptoms column are in binary format i.e if a patient record suffers from a specific symptom then (1) indicates the presence of that specific symptom. On the other hand, (0) indicates the absence of it. The prognosis column is a string type meaning it will have to be encoded for our models to assign a predicted disease.
+As mentioned, the dataset can be found in Kaggle named "[Prognosis Disease Symptoms](https://www.kaggle.com/datasets/noeyislearning/disease-prediction-based-on-symptoms/data)". It is stored in 2 CSV format files where model training takes place in train_data.csv and final model implementation takes place in test_data.csv (*Note: I have renamed the csv files*). Each row of the dataset represents a patient record, 132 columns representing different symptoms plus one last column indicating the disease/prognosis. The 132 symptoms column are in binary format i.e if a patient record suffers from a specific symptom then (1) indicates the presence of that specific symptom. On the other hand, (0) indicates the absence of it. The prognosis column is a string type meaning it will have to be encoded for our models to assign a predicted disease.
 
 ### Models
 
