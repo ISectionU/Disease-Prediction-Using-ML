@@ -1,7 +1,7 @@
 # Disease-Prediction-Using-ML
 
 ## Abstract
-#### This is a short project to predict the disease of someone, based on the symptoms that he/she possesses, by using supervised machine learning. I will use 3 different models and combine them for a more accurate prediction. The dataset was acquired from [Kaggle](Kaggle.com) which will be divided into two parts; for testing and training the models. This project follows the steps outlined in this [website](https://www.geeksforgeeks.org/disease-prediction-using-machine-learning/). Any modifications or extra functionality I will outline and document it accordingly. See `enviroment.yml` for project dependencies, including Python and package specifications used.
+#### This is a short project to predict the disease of someone, based on the symptoms that he/she possesses, by using supervised machine learning. I will use 3 different models and combine them for a more accurate prediction. The dataset was acquired from [Kaggle](Kaggle.com) which is divided into two parts; for testing and training the models. This project follows the steps outlined in this [website](https://www.geeksforgeeks.org/disease-prediction-using-machine-learning/). Any modifications or extra functionality I will outline and document it accordingly. See `enviroment.yml` for project dependencies, including Python and package specifications used.
 ------------------------------------
 
 ### Dataset
